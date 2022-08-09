@@ -159,7 +159,7 @@ main {
 	margin: auto;
 }
 main > h3 {
-	font-weight: 0.8rem;
+	font-size: 0.8rem;
 	margin-bottom: 10px;
 }
 figure img {
@@ -171,7 +171,7 @@ figcaption {
 	line-height: 150%;
 }
 figure {
-		margin-bottom: 25px;
+	margin-bottom: 25px;
 }
 /*하단*/
 footer {
